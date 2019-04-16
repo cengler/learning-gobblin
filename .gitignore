@@ -1,2 +1,10 @@
 
 \.DS_Store
+
+incubator-gobblin-release-0\.14\.0/
+
+*.log
+
+gobblin-data/work/
+
+*.out
