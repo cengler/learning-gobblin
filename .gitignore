@@ -8,3 +8,7 @@ incubator-gobblin-release-0\.14\.0/
 gobblin-data/work/
 
 *.out
+
+gobblin-src/target/
+
+gobblin-dist/lib/learning-gobblin\.jar
